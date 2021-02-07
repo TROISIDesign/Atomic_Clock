@@ -1,5 +1,5 @@
 # Atomic_Clock
-Tune your timer to a tee
+Tune your timer to a T
 
 This is the Read.Me for the Atomic Clock webapp. Below you will find steps on how to use this app, as well as how to install it offline and make changes, customize to your preference, and the do's and don'ts for pull requests. 
 
